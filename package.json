@@ -8,7 +8,7 @@
   },
   "author": "https://github.com/abbydiode",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^21.0.0"
   }
 }

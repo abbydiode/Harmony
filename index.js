@@ -1,4 +1,5 @@
-const { app, BrowserWindow, shell, ipc } = require('electron');
+const { app, BrowserWindow, shell } = require('electron');
+let mainWindow;
 
 app.once('ready', () => {
     const window = new BrowserWindow({
