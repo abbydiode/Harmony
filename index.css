@@ -1,0 +1,15 @@
+:root {
+    background-color: #36393F;
+    color: #FFF;
+    font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    overflow-x: hidden;
+}
+
+.centered {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}

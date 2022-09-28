@@ -2,7 +2,7 @@
   "name": "harmony",
   "version": "0.1.0",
   "description": "Harmony - Wipe your Discord messages quickly and easily",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "electron ."
   },
